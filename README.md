@@ -10,4 +10,3 @@ development is slower due to me running out of ideas
 
 # plans
 * not making it ugly as hell
-* moving it to logzinga.com
