@@ -6,6 +6,8 @@ website is at https://logzinga.com
 
 development is slower due to me running out of ideas
 
+cjkal
+
 
 # plans
 * not making it ugly as hell
