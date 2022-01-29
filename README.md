@@ -10,4 +10,4 @@ cjkal
 
 
 # plans
-* not making it ugly as hell
+* idk
