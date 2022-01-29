@@ -10,4 +10,4 @@ cjkal
 
 
 # plans
-* idk
+* advertisements
