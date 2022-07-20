@@ -10,4 +10,4 @@ cjkal
 
 
 # plans
-* advertisements
+* literally nothing
