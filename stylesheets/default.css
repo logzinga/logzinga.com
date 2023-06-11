@@ -19,3 +19,7 @@ h1, body {
   font-size: 17px;
   border-radius: 5px;
 }
+
+.latestcontent {
+  display: inline;
+}
