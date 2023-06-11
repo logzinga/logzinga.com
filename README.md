@@ -1,4 +1,13 @@
 # logzinga.com
-this is the current files for the redesign of logzinga.com, hopefully i make it look better than it was before
+im terrible at this stuff so im sorry 
 
 
+website is at https://logzinga.com
+
+development is slower due to me running out of ideas
+
+cjkal
+
+
+# plans
+* literally nothing
