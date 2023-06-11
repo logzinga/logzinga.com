@@ -23,3 +23,7 @@ h1, body {
 .latestcontent {
   display: inline;
 }
+
+.socials-extra a {
+  text-decoration: none;
+}
