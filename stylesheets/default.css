@@ -3,3 +3,9 @@ h1, body {
   color: rgb(82, 9, 48);
   text-align: center;
 }
+
+.footer {
+  position: fixed;
+  bottom: 1%;
+  width: 100%;
+}
