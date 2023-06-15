@@ -11,3 +11,7 @@ cjkal
 
 # plans
 * literally nothing
+
+# projects used:
+
+* oneko.js - https://github.com/adryd325/oneko.js
