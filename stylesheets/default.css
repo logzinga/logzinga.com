@@ -16,6 +16,10 @@ li {
   margin-left: 85px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .footer {
   position: fixed;
   bottom: 1%;
