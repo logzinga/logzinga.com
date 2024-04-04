@@ -1,13 +1,17 @@
 h1, body {
-  background-color: pink;
-  color: rgb(82, 9, 48);
-  text-align: center;
+  background-color: black;
+  color: whitesmoke;
+  text-align: left;
+  margin-top: 100px;
+  margin-left: 100px;
 }
 
 .footer {
   position: fixed;
   bottom: 1%;
   width: 100%;
+  text-decoration: none;
+  text-align: center;
 }
 
 .navigation a {
