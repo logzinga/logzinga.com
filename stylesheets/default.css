@@ -1,9 +1,14 @@
-h1, body {
+h1, body{
   background-color: black;
   color: whitesmoke;
   text-align: left;
-  margin-top: 100px;
-  margin-left: 100px;
+  margin-top: 85px;
+  margin-left: 85px;
+}
+
+h2, p{
+  text-align: left;
+  margin-left: 85px;
 }
 
 .footer {
