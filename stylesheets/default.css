@@ -1,19 +1,20 @@
 h1, body{
   background-color: black;
   color: whitesmoke;
-  text-align: left;
+  text-align: center;
   margin-top: 85px;
   margin-left: 85px;
 }
 
 h3, h2, p{
-  text-align: left;
+  text-align: center;
   margin-left: 85px;
 }
 
 li {
-  text-align: left;
+  text-align: center;
   margin-left: 85px;
+  
 }
 
 a:link {
