@@ -1,8 +1,7 @@
 h1, body{
-  background-color: black;
-  color: whitesmoke;
+  background-color: pink;
+  color: rgb(82, 9, 48);
   text-align: center;
-  margin-top: 85px;
   margin-left: 85px;
 }
 
@@ -18,11 +17,11 @@ li {
 }
 
 a:link {
-  color: white;
+  color: rgb(82, 9, 48);
 }
 
 a:visited {
-  color: white;
+  color: rgb(82, 9, 48);
 }
 
 .footer {
