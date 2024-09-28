@@ -2,17 +2,14 @@ h1, body{
   background-color: pink;
   color: rgb(82, 9, 48);
   text-align: center;
-  margin-left: 85px;
 }
 
 h3, h2, p{
   text-align: center;
-  margin-left: 85px;
 }
 
 li {
   text-align: center;
-  margin-left: 85px;
   list-style: none;
 }
 
@@ -38,6 +35,12 @@ a:visited {
   text-align: center;
   text-decoration: none;
   font-size: 17px;
+}
+
+.navigation {
+  display: inline;
+  text-align: center;
+  padding: 50px;
 }
 
 .socials-extra a {
