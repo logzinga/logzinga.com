@@ -70,3 +70,9 @@ a:visited {
     display: none;
   }
 }
+
+@media screen and (min-width: 1550px) {
+  .mini-music {
+    display: none;
+  }
+}
