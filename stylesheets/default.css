@@ -2,6 +2,8 @@ h1, body{
   background-color: pink;
   color: rgb(82, 9, 48);
   text-align: center;
+  align-items: center;
+  align-content: center;
 }
 
 h3, h2, p{
@@ -53,4 +55,10 @@ a:visited {
 
 .contact li {
   padding: 1px;
+}
+
+.music {
+  text-align: left;
+  position: fixed;
+  margin-left: 100px;
 }
