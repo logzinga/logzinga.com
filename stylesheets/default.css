@@ -57,8 +57,16 @@ a:visited {
   padding: 1px;
 }
 
-.music {
-  text-align: left;
-  position: fixed;
-  margin-left: 100px;
+@media screen and (min-width: 1550px) {
+  .music {
+    text-align: left;
+    position: absolute;
+    margin-left: 100px;
+  }
+}
+
+@media screen and (max-width: 1550px) {
+  .music {
+    display: none;
+  }
 }
