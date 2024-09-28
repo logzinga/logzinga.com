@@ -13,7 +13,7 @@ h3, h2, p{
 li {
   text-align: center;
   margin-left: 85px;
-  
+  list-style: none;
 }
 
 a:link {
@@ -34,12 +34,10 @@ a:visited {
 
 .navigation a {
   display: inline-block;
-  color: rgb(58, 84, 141);
+  color: rgb(82, 9, 48);
   text-align: center;
-  padding: 14px;
   text-decoration: none;
   font-size: 17px;
-  border-radius: 5px;
 }
 
 .socials-extra a {
