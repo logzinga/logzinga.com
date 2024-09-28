@@ -1,27 +1,24 @@
 h1, body{
-  background-color: black;
-  color: whitesmoke;
-  text-align: left;
-  margin-top: 85px;
-  margin-left: 85px;
+  background-color: pink;
+  color: rgb(82, 9, 48);
+  text-align: center;
 }
 
 h3, h2, p{
-  text-align: left;
-  margin-left: 85px;
+  text-align: center;
 }
 
 li {
-  text-align: left;
-  margin-left: 85px;
+  text-align: center;
+  list-style: none;
 }
 
 a:link {
-  color: white;
+  color: rgb(82, 9, 48);
 }
 
 a:visited {
-  color: white;
+  color: rgb(82, 9, 48);
 }
 
 .footer {
@@ -34,12 +31,16 @@ a:visited {
 
 .navigation a {
   display: inline-block;
-  color: rgb(58, 84, 141);
+  color: rgb(82, 9, 48);
   text-align: center;
-  padding: 14px;
   text-decoration: none;
   font-size: 17px;
-  border-radius: 5px;
+}
+
+.navigation {
+  display: inline;
+  text-align: center;
+  padding: 50px;
 }
 
 .socials-extra a {
@@ -48,4 +49,8 @@ a:visited {
 
 .footer a {
 	text-decoration: none;
+}
+
+.contact li {
+  padding: 1px;
 }
