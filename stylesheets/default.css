@@ -17,10 +17,14 @@ a {
   border-style: dotted;
   margin: 3px;
 }
-li {
+nav li {
   display: flex;
   margin: 5px;
 }
 nav {
   display: flex;
+}
+
+.socials {
+
 }
