@@ -10,3 +10,17 @@ body {
   align-content: center;
   margin-top: 20%;
 }
+a {
+  text-decoration: none;
+  color: wheat;
+  border: 2px;
+  border-style: dotted;
+  margin: 3px;
+}
+li {
+  display: flex;
+  margin: 5px;
+}
+nav {
+  display: flex;
+}
