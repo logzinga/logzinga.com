@@ -1,78 +1,34 @@
-h1, body{
-  background-color: pink;
-  color: rgb(82, 9, 48);
-  text-align: center;
-  align-items: center;
+@font-face {
+  font-family: "Roboto Mono";
+  src: local("Roboto Mono"), url("../fonts/RobotoMono-VariableFont_wght.ttf") format("truetype");
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Roboto Mono";
   align-content: center;
+  margin-top: 20%;
 }
-
-h3, h2, p{
-  text-align: center;
-}
-
-li {
-  text-align: center;
-  list-style: none;
-}
-
-a:link {
-  color: rgb(82, 9, 48);
-}
-
-a:visited {
-  color: rgb(82, 9, 48);
-}
-
-.footer {
-  position: fixed;
-  bottom: 1%;
-  width: 100%;
+a {
   text-decoration: none;
-  text-align: center;
+  color: wheat;
+  border: 2px;
+  border-style: dotted;
+  margin: 3px;
+}
+nav li {
+  display: flex;
+  margin: 5px;
+}
+nav {
+  display: flex;
 }
 
-.navigation a {
-  display: inline-block;
-  color: rgb(82, 9, 48);
-  text-align: center;
-  text-decoration: none;
-  font-size: 17px;
+.socials {
+
 }
 
-.navigation {
-  display: inline;
-  text-align: center;
-  padding: 50px;
-}
-
-.socials-extra a {
-  text-decoration: none;
-}
-
-.footer a {
-	text-decoration: none;
-}
-
-.contact li {
-  padding: 1px;
-}
-
-@media screen and (min-width: 1550px) {
-  .music {
-    text-align: left;
-    position: absolute;
-    margin-left: 100px;
-  }
-}
-
-@media screen and (max-width: 1550px) {
-  .music {
-    display: none;
-  }
-}
-
-@media screen and (min-width: 1550px) {
-  .mini-music {
-    display: none;
-  }
+.ring a {
+  border-style: none;
 }
