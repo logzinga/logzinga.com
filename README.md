@@ -10,7 +10,7 @@ cjkal
 
 
 # plans
-* literally nothing
+* projects page (when i have projects)
 
 # projects used:
 
